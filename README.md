@@ -1,2 +1,2 @@
 # Chat-App
-building a basic chat app using socket.io
+## simple chat app using socket.io & vanilla.js
